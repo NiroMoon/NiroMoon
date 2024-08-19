@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Marcos Theodoro</h1>
-- 🌱 Estou estudando **Python, JS e HTMl**
+- 🌱 Atualmente estou estudando **Python, JS, HTMl, e outras ferramentas**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niromoon" alt="niromoon" /></a> </p>
